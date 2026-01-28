@@ -5,7 +5,7 @@ title: Home
 
 # Drew Mearig
 
-Drew Mearig is a first-year transfer student at the University of Central Florida studying computer science. He previously received his Associate in Arts degree from Eastern Florida State College. Drew is seeking an internship that grants opportunities to utilize his programming experience in a professional environment. He is an adaptive learner who prioritizes excellence and efficiency in his academic and personal studies, resulting in strong performance and an accelerated learning pace throughout his academic pathway. Through coursework and personal projects, Drew has demonstrated proficiency in Python, JavaScript, Java, and C/C++ using a variety of applications and IDEs including VS Code, GitHub, and IDLE.
+Drew Mearig is an aspiring computer scientist at the University of Central Florida. Through coursework and personal projects, he has demonstrated proficiency in Python, JavaScript, Java, and C/C++ using a variety of applications and IDEs including VS Code, GitHub, and IDLE. Drew has gained experience in game developement building both back-end and graphics systems on Python and JavaScript.
 
 ## Professional Writing Samples/Projects
 
