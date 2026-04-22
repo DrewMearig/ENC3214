@@ -20,6 +20,7 @@ University of Central Florida, Orlando, FL May 2028
 Bachelor of Science in Computer Science
 
 Silver Pegasus Scholarship Recipient
+
 GPA 4.00
 
 Eastern Florida State College, Melbourne, FL May 2025
