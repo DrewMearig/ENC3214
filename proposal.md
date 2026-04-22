@@ -3,9 +3,7 @@ layout: default
 title: Proposal
 ---
 
-# Proposal
-
-## The Effect of Logical Skill Development on Academic Performance
+# The Effect of Logical Skill Development on Academic Performance
 Drew Mearig - Department of Computer Science
 
 Background
