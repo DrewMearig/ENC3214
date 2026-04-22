@@ -3,7 +3,10 @@ layout: default
 title: Resume
 ---
 
-# Resume
+# Drew Mearig Resume
+
+(xxx) xxx-xxxx | dr899148@ucf.edu | Orlando, FL | https://www.linkedin.com/in/drew-mearig-1b46303aa/
+
 SUMMARY
 
 Drew Mearig is seeking professional experience in CS and IT related fields. He has skills in
