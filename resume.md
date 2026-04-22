@@ -16,12 +16,18 @@ programming languages and IDEs.
 EDUCATION
 
 University of Central Florida, Orlando, FL May 2028
+
 Bachelor of Science in Computer Science
+
 Silver Pegasus Scholarship Recipient
 GPA 4.00
+
 Eastern Florida State College, Melbourne, FL May 2025
+
 Associates in Arts
+
 Phi Theta Kappa Honors Society Member: Spring 25
+
 GPA 3.89
 
 WORK EXPERIENCE
